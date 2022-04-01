@@ -5,7 +5,7 @@ public class Rectangle {
     double length;
     double width;
 
-    //constr
+    //co
     public Rectangle(double length, double width){
         this.length = length;
         this.width = width;
